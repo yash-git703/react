@@ -1,0 +1,20 @@
+.navlinks .logo {
+  margin-top: 0;
+  justify-content: flex;
+   display:flex;
+   list-style: none;
+   text-decoration: none;
+   gap: 30px;
+
+}
+
+.navlinks li a {
+  list-style: none;
+  text-decoration: none;
+  gap: 30px;
+
+}
+
+.active{
+  color:red
+}
